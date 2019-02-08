@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+.container {
+  width: 640px;
+  margin: 10px auto;
+}
+.font-box {
+  padding: 20px;
+  border: 1px solid #efefef;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.serif {
+  font-family: serif;
+}
+.noto-serif-kr {
+  font-family:'Noto Serif KR';
+}
+.noto-serif-kr-ie {
+  font-family:'Noto Serif KR', serif;
+}
